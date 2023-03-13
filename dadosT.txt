@@ -1,0 +1,5 @@
+vendas;vendedor
+10;andre
+13;rafael
+14;michelangelo
+8;donatello
